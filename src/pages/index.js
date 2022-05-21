@@ -19,7 +19,7 @@ export default function IndexPage() {
     <React.StrictMode>
       <ThemeProvider theme={theme}>
         <Layout>
-          <SEO title="NextJS Landing Page" />
+          <SEO title="Artosyx" />
           <Banner />
           <KeyFeature />
           <ServiceSection />
